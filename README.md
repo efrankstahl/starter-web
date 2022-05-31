@@ -16,7 +16,7 @@ piece at a time, when I assure you I 'git' the gist!!!
 This remains a simple webproject
 
 ## How to Contribute 
-
+ Please fork this repository and then issue pull request for review.
 ## Copyright
 
 Wow, it's a copyright notice!
