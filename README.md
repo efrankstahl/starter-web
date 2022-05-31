@@ -16,3 +16,7 @@ piece at a time, when I assure you I 'git' the gist!!!
 This remains a simple webproject
 
 ## How to Contribute 
+
+## Copyright
+
+Wow, it's a copyright notice!
