@@ -14,6 +14,8 @@ these videos a mite faster.
 
 ## Purpose
 
+Adding more stuff for the rebase example
+
 ## Deployment 
 
 This remains a simple webproject
