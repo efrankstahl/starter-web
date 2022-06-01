@@ -24,4 +24,5 @@ This remains a simple webproject
  Please fork this repository and then issue pull request for review.
 ## Copyright
 
-Wow, it's a copyright notice!
+Wow, it's a copyright notice! All rights reserved! y
+
